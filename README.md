@@ -55,17 +55,6 @@ $ whoami
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafikovilyas24-lang&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ Contribution Graph
 
 <p align="center">
