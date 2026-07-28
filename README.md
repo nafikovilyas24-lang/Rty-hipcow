@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+Initializing+profile...;Loading+repositories...;Loading+projects...;Python+Developer;SwiftUI+Developer;Telegram+Bot+Developer;Profile+Ready+%E2%9C%94" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Learning+new+skills...;Building+discipline...;Improving+every+day...;Never+giving+up...;Solving+problems...;Writing+clean+code...;Thinking+like+a+developer...;Stay+curious." />
   </a>
 </p>
 
